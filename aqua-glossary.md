@@ -16,6 +16,16 @@ A buyer who takes part in an auction makes a **bid**. **Bids** can be canceled a
 
  Aqua can also be used for token buy-backs. In this case **buyer** is a more neutral term than investor.
 
+# Soft cap
+
+Soft-cap is the industry term for a threshold which must be reached to finish the sale successfully. If a soft cap is not reached, the buyer gets his investment back and buys no token.
+
+
+![](https://i.imgur.com/CDpsyQM.png)
+
+
+src: https://www.coinist.io/crypto-hard-caps-soft-caps/
+
 # Purchase
 
 A buyer in a fixed price sale makes a **purchase**. Do not use bid in this context.
