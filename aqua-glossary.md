@@ -1,10 +1,12 @@
+[![hackmd-github-sync-badge](https://hackmd.io/CIZ0yE7XQoy5c1t4xFHFvA/badge)](https://hackmd.io/CIZ0yE7XQoy5c1t4xFHFvA)
+
 `aqua` `DXdao`
 
 # Aqua Glossary
 
 This is the central glossary for aqua. 
 
-This file can be edited here: https://hackmd.io/CIZ0yE7XQoy5c1t4xFHFvA and is synct to  https://github.com/cryptonative-ch/aqua-meta/blob/main/aqua-glossary.md
+This file can be edited here: https://hackmd.io/CIZ0yE7XQoy5c1t4xFHFvA and is synct to https://github.com/cryptonative-ch/aqua-meta/blob/main/aqua-glossary.md
 
 # Bid
 
