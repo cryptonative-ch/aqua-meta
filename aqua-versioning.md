@@ -1,4 +1,5 @@
-tags: `Mesa` `DXdao` `versioning`
+[![hackmd-github-sync-badge](https://hackmd.io/-wQmAuKkS0Wj4Nn9sjTGog/badge)](https://hackmd.io/-wQmAuKkS0Wj4Nn9sjTGog)
+`aqua` `DXdao` `versioning`
 
 
 # Versioning for MVP
